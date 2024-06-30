@@ -1,0 +1,8 @@
+Flask==2.0.2
+Flask-SQLAlchemy==2.5.1
+Flask-WTF==1.0.0
+Werkzeug==2.0.2
+pyotp==2.5.0
+qrcode==7.3
+python-dotenv==0.19.2
+SQLAlchemy==1.4.25
